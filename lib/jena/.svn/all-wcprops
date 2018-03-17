@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/jena
+END
+slf4j-log4j12-1.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/jena/slf4j-log4j12-1.5.6.jar
+END
+copyright.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/jena/copyright.txt
+END
+xercesImpl-2.7.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/jena/xercesImpl-2.7.1.jar
+END
+jena-2.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/jena/jena-2.6.2.jar
+END
+jena-2.6.2-tests.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/jena/jena-2.6.2-tests.jar
+END
+stax-api-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/jena/stax-api-1.0.1.jar
+END
+icu4j-3.4.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/jena/icu4j-3.4.4.jar
+END
+iri-0.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/jena/iri-0.7.jar
+END
+arq-2.8.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/jena/arq-2.8.1.jar
+END
+version.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/jena/version.txt
+END
+wstx-asl-3.2.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/jena/wstx-asl-3.2.9.jar
+END
+junit-4.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/jena/junit-4.5.jar
+END
+slf4j-api-1.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/jena/slf4j-api-1.5.6.jar
+END
+log4j-1.2.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/jena/log4j-1.2.13.jar
+END
+lucene-core-2.3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/jena/lucene-core-2.3.1.jar
+END

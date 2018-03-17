@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/jetty
+END
+commons-logging-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/jetty/commons-logging-api.jar
+END
+version.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/jetty/version.txt
+END
+jetty.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/jetty/jetty.jar
+END

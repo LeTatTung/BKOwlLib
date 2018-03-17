@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mitani2010/!svn/ver/166/BKOwlLib/src/ontologyDataSructure
+END
+BKProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mitani2010/!svn/ver/165/BKOwlLib/src/ontologyDataSructure/BKProperty.java
+END
+BKClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mitani2010/!svn/ver/165/BKOwlLib/src/ontologyDataSructure/BKClass.java
+END
+BKResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mitani2010/!svn/ver/165/BKOwlLib/src/ontologyDataSructure/BKResource.java
+END
+LabelEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mitani2010/!svn/ver/165/BKOwlLib/src/ontologyDataSructure/LabelEnum.java
+END
+BKIndividual.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mitani2010/!svn/ver/165/BKOwlLib/src/ontologyDataSructure/BKIndividual.java
+END
+LanguageEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mitani2010/!svn/ver/165/BKOwlLib/src/ontologyDataSructure/LanguageEnum.java
+END
+BKIndividualProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mitani2010/!svn/ver/166/BKOwlLib/src/ontologyDataSructure/BKIndividualProperty.java
+END
+QueryResultMapData.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mitani2010/!svn/ver/165/BKOwlLib/src/ontologyDataSructure/QueryResultMapData.java
+END

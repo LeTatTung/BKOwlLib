@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/mitani2010/!svn/ver/530/BKOwlLib/src/ontologyOperator
+END
+PropertyOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mitani2010/!svn/ver/506/BKOwlLib/src/ontologyOperator/PropertyOperator.java
+END
+ClassOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mitani2010/!svn/ver/530/BKOwlLib/src/ontologyOperator/ClassOperator.java
+END
+IndividualOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mitani2010/!svn/ver/510/BKOwlLib/src/ontologyOperator/IndividualOperator.java
+END
+ObjectPropertyValuesOfIndividual.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mitani2010/!svn/ver/165/BKOwlLib/src/ontologyOperator/ObjectPropertyValuesOfIndividual.java
+END
+DataPropertyValuesOfIndividual.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/mitani2010/!svn/ver/165/BKOwlLib/src/ontologyOperator/DataPropertyValuesOfIndividual.java
+END
+ModelOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mitani2010/!svn/ver/526/BKOwlLib/src/ontologyOperator/ModelOperator.java
+END

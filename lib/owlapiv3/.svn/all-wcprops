@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/owlapiv3
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/owlapiv3/license.txt
+END
+version.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/owlapiv3/version.txt
+END
+owlapi-src.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/owlapiv3/owlapi-src.jar
+END
+owlapi-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/owlapiv3/owlapi-bin.jar
+END

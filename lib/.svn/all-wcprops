@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib
+END
+pellet-explanation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/pellet-explanation.jar
+END
+pellet-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/pellet-core.jar
+END
+pellet-modularity.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/pellet-modularity.jar
+END
+pellet-rules.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/pellet-rules.jar
+END
+pellet-owlapi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/pellet-owlapi.jar
+END
+pellet-datatypes.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/pellet-datatypes.jar
+END
+pellet-el.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/pellet-el.jar
+END
+servlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/servlet.jar
+END
+pellet-dig.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/pellet-dig.jar
+END
+pellet-owlapiv3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/pellet-owlapiv3.jar
+END
+pellet-query.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/pellet-query.jar
+END
+aterm-java-1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/aterm-java-1.6.jar
+END
+pellet-pellint.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/pellet-pellint.jar
+END
+pellet-cli.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/pellet-cli.jar
+END
+pellet-jena.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/pellet-jena.jar
+END
+pellet-test.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mitani2010/!svn/ver/1/BKOwlLib/lib/pellet-test.jar
+END

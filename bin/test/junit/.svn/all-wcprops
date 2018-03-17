@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mitani2010/!svn/ver/165/BKOwlLib/src/test/junit
+END
+listAllClassInstanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mitani2010/!svn/ver/165/BKOwlLib/src/test/junit/listAllClassInstanceTest.java
+END
+getPropertySpecificDataTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mitani2010/!svn/ver/165/BKOwlLib/src/test/junit/getPropertySpecificDataTypeTest.java
+END
+listAllRelatedInstanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mitani2010/!svn/ver/165/BKOwlLib/src/test/junit/listAllRelatedInstanceTest.java
+END
+getObjectPropertyRangesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mitani2010/!svn/ver/165/BKOwlLib/src/test/junit/getObjectPropertyRangesTest.java
+END
